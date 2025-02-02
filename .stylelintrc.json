@@ -1,0 +1,15 @@
+{
+    "rules": {
+      "block-no-empty": true,
+      "color-hex-case": "lower",
+      "declaration-block-no-duplicate-properties": true,
+      "selector-type-case": "lower",
+      "value-keyword-case": "lower",
+      "no-duplicate-selectors": true,
+      "property-case": "lower",
+      "indentation": 2,
+      "max-empty-lines": 2,
+      "no-extra-semicolons": true
+    }
+  }
+  
