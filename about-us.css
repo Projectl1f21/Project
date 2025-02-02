@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Team Section */
+.team {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.team-member {
+    text-align: center;
+    width: 200px;
+}
+
+.team-member img {
+    width: 100%;
+    border-radius: 50%;
+}
